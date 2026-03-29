@@ -1,0 +1,5 @@
+ERROR: failed login
+INFO: user logged in
+WARNING: disk almost full
+ERROR: connection timeout
+INFO: system rebooted
