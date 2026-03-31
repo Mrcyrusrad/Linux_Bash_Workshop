@@ -13,3 +13,9 @@ Learn how to combine commands using pipes.
 
 ## Bonus
 Try chaining 3 commands together
+
+## Hints
+Use grep "word" file | wc -l to count matching lines with a pipe.
+Use sort filename to sort lines alphabetically.
+Use uniq to remove repeated adjacent lines.
+If duplicates are not next to each other, use sort before uniq.

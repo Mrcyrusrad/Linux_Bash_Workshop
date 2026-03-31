@@ -13,3 +13,7 @@ Learn how to search for text in files.
 
 ## Bonus
 Try searching for a word that does NOT exist
+
+## Hints
+Use grep "word" filename to search for matching lines.
+Use grep -c "word" filename to count matching lines.

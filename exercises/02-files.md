@@ -15,3 +15,8 @@ Learn how to view and create files.
 
 ## Bonus
 Try opening a file using `less`
+
+## Hints
+Use head -n 3 filename for the first 3 lines.
+Use touch filename to create a new empty file.
+Use echo "your text here" > filename to write text into a file.
