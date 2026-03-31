@@ -17,3 +17,10 @@ Create a file called `clean_errors.txt` that:
 - contains only ERROR lines
 - is sorted
 - has no duplicates
+
+## Hints
+
+Use > to write output into a file.
+Use >> to append to a file instead of replacing it.
+Use cat filename to check the contents.
+You can combine grep with > to save search results into a new file.
