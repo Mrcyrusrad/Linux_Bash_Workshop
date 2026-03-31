@@ -17,25 +17,7 @@ No prior experience is required.
 - Combine commands using pipes (`|`)
 - Save output using redirection (`>`, `>>`)
 
----
-## Repository Structure
-.
-|── Exercises
-| |── 00-cheatsheet.md
-| |── 01-basics.md
-| |── 02-files.md
-| |── 03-grep.md
-| |── 04-pipes.md
-| |── 05-redirection.md
-├── practice/
-│ ├── fruits.txt
-│ └── log.txt
-
-
----
-
 ## Getting Started
-
 ### Option 1: GitHub Codespaces (Recommended)
 
 1. Click the green **Code** button
@@ -48,7 +30,6 @@ No prior experience is required.
 ### Option 2: Local Setup
 
 1. Clone the repository:
-   ```bash
   git clone <your-repo-link>
   cd <repo-name>
 
