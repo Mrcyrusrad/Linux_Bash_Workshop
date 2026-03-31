@@ -9,7 +9,7 @@ You will learn how to navigate the file system, work with files, search for data
 
 No prior experience is required.
 
-## 🧠 What You’ll Learn
+## What You’ll Learn
 
 - Navigate directories using the terminal
 - View and create files
@@ -18,7 +18,7 @@ No prior experience is required.
 - Save output using redirection (`>`, `>>`)
 
 ---
-## 📁 Repository Structure
+## Repository Structure
 .
 |── Exercises
 | |── 00-cheatsheet.md
