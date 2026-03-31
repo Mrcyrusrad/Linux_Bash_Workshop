@@ -20,6 +20,8 @@ No prior experience is required.
 ## Getting Started
 ### Option 1: GitHub Codespaces (Recommended)
 
+https://codespaces.new/Mrcyrusrad/Linux_Bash_Workshop
+
 1. Click the green **Code** button
 2. Open in **Codespaces**
 3. Wait for the environment to load
