@@ -12,6 +12,9 @@ Learn how to view and create files.
 5. Show only the last 2 lines of `log.txt`
 6. Create a new file called `notes.txt`
 7. Add some text into `notes.txt` using echo
+8. Make a copy of `notes.txt`
+9. Rename (move) `notes.txt`
+
 
 ## Bonus
 Try opening a file using `less`
